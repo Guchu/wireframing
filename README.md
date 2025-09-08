@@ -43,5 +43,5 @@ Making changes to a wireframe is quicker and less costly than altering a high-fi
 7. Guides the Design Process:
 Wireframes act as a guide for subsequent design and development phases, ensuring that the final product aligns with the initial vision and requirements.
 
-8.Focuses on Functionality and User Experience:
+8. Focuses on Functionality and User Experience:
 By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
