@@ -20,3 +20,28 @@ One can also tell that the images are refined and not just place holders, the co
 Popular tools used in wireframing include; Figma, Miro, Sketch, UXPin, Balsamiq, and the oldschool pen and paper
 ### Figma for wireframing
 Instead of using old methods of sketching wireframes by hand using a blank sheet or computer paper, or dot grid journals modern methods have given us tools like figma. For those that want to jump into designing on-screen, Figma has a wireframe template to get you started. Figma is browser-based, so sharing your wireframes is as easy as sharing a link therefore enhancing collaboration among team members. Your team can leave comments right on the file so you can easily get feedback and field questions.
+
+## Benefits of Wireframing
+1. Clarifies Ideas and Concepts:
+Wireframing helps translate abstract ideas into tangible representations. It allows designers and stakeholders to visualize the layout and structure of a project early in the process.
+
+2. Facilitates Communication:
+It serves as a communication tool among team members, clients, and stakeholders, ensuring everyone is on the same page regarding the design and functionality.
+
+3. Identifies Usability Issues:
+By focusing on the user interface structure, wireframing helps identify potential usability issues early on. This can include navigation problems, information hierarchy issues, and interaction flaws.
+
+4. Saves Time and Resources:
+Early detection of design flaws and usability issues saves time and resources that would be spent on revisions later in the design and development stages.
+
+5. Provides a Clear Layout and Structure:
+Wireframes provide a clear and simple representation of the layout, allowing designers to plan the content placement and prioritize elements effectively.
+
+6. Enables Easy Modifications:
+Making changes to a wireframe is quicker and less costly than altering a high-fidelity design or a developed product. This flexibility encourages experimentation and iterative improvement.
+
+7. Guides the Design Process:
+Wireframes act as a guide for subsequent design and development phases, ensuring that the final product aligns with the initial vision and requirements.
+
+8.Focuses on Functionality and User Experience:
+By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
